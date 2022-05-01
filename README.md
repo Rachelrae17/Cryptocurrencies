@@ -35,7 +35,7 @@ Next Step is a 2d scatter plot was generated for Total Coins Mined v Total Coin 
 
 Summary: 
 
-The job of unsupervised machine learning is to discover patterns or groups of data when there is no known output. This analysis was successful at grouping cryptocurrencies into 4 groups. If we were to create a crypto investment portfolio we would need to further analyze the clusters. A good start point where we can see that the most profitable and known cryptos are somewhat in the 2 groups that have less supply and mined coins in comparison to others. These cryptos are Bitcoin is cleary an outlier in this dataset.We should keep up with the innovations of technology where new altcoins are being created with very interesting value propositions.
+The job of unsupervised machine learning is to discover patterns or groups of data when there is no known output. This analysis was successful at grouping cryptocurrencies into 4 groups. If we were to create a crypto investment portfolio we would need to further analyze the clusters. A good start point where we can see that the most profitable and known cryptos are somewhat in the 2 groups that have less supply and mined coins in comparison to others. These cryptos are Bitcoin is cleary an outlier in this dataset. We should keep up with the innovations of technology where new altcoins are being created with very interesting value propositions.
 
 
 
