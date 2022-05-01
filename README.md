@@ -27,6 +27,11 @@ The product was this clustered_df with a 'Class' column that showed the predicti
 
 To Visualize the clusters, a 3D Graph was Created and then Plotted. 
 
+![Step 6](https://user-images.githubusercontent.com/95897182/166163489-52fdd7aa-18a3-433f-9608-dfd290b4e4da.png)
+
+Next Step is a 2d scatter plot was generated for Total Coins Mined v Total Coin Supply.
+
+
 
 
 
