@@ -15,3 +15,7 @@ Next Step, the data was scaled, fit, and transformed in preparation for a Princi
 
 ![Step 2](https://user-images.githubusercontent.com/95897182/166161324-c933bd40-fb31-4ecb-89a6-2cf658dc65ca.png)
 
+![Step 3](https://user-images.githubusercontent.com/95897182/166161396-0312b935-7621-43ea-bc47-b73ddc120e7d.png)
+
+
+
