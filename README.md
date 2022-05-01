@@ -17,5 +17,14 @@ Next Step, the data was scaled, fit, and transformed in preparation for a Princi
 
 ![Step 3](https://user-images.githubusercontent.com/95897182/166161396-0312b935-7621-43ea-bc47-b73ddc120e7d.png)
 
+![elbow](https://user-images.githubusercontent.com/95897182/166161490-13d3ccba-5a4c-4171-b8cf-095d1b0d278f.png)
+
+The optimal result was 4 clusters therefore I then proceeded with the KMeans analysis to fit the pca dataframe and predict the clustering. 
+The product was this clustered_df with a 'Class' column that showed the predictions to which group it belonged to.
+
+
+
+
+
 
 
