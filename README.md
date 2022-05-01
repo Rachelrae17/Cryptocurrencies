@@ -25,6 +25,11 @@ The product was this clustered_df with a 'Class' column that showed the predicti
 ![Step 5](https://user-images.githubusercontent.com/95897182/166161607-a1590e5c-b36e-4f88-865b-874b75fd8f70.png) 
 
 
+To Visualize the clusters, a 3D Graph was Created and then Plotted. 
+
+
+
+
 
 
 
