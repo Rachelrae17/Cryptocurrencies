@@ -8,3 +8,7 @@ The purpose of this project was to analyze a dataset from many alternative crypt
 Results: 
 First, I Loaded the data, and transform the data so that unsupervised machine learning could work.
 Initial Dataframe Head 
+![Step 1-1](https://user-images.githubusercontent.com/95897182/166161180-143985d3-f57a-4e6b-a202-8242241a1524.png)
+
+Next Step, the data was scaled, fit, and transformed in preparation for a Principal Component Analysis (PCA)
+
